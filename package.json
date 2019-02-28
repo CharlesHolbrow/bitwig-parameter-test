@@ -1,0 +1,14 @@
+{
+  "name": "bitwig-parameter-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "parameter-test.control.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "typed-bitwig-api": "^6.0.0"
+  }
+}
